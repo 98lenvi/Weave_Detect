@@ -1,6 +1,6 @@
 Weave_Detect
 
-<iframe width="1280" height="735" src="https://www.youtube.com/embed/D4677zM28p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=D4677zM28p8
 
 
 I have uploaded the models that will differntiate between three types of weaving, i.e. Simple, Twill and Satin.
